@@ -2,7 +2,10 @@
 
 ## Preview
 
-
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/edit/master/demo/login.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/edit/master/demo/home.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/edit/master/demo/accountInfo.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/edit/master/demo/transactionDetails.png)
 
 ## Introduction
 This is an Intelligent Bank Account Management System based on Python Tkinter and MySQL.  
