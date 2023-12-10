@@ -2,10 +2,10 @@
 
 ## Preview
 
-![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/master/demo/login.png)
-![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/master/demo/home.png)
-![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/master/demo/accountInfo.png)
-![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/master/demo/transactionDetails.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/development/demo/login.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/development/demo/home.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/development/demo/accountInfo.png)
+![image](https://github.com/Nicole880906/Bank-Account-Management-System/blob/development/demo/transactionDetails.png)
 
 ## Introduction
 
