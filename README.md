@@ -17,23 +17,27 @@ You can follow the steps below to implement the system.
 ## Working
 
 1. Install MySQL on local machine: https://dev.mysql.com/downloads/installer/
+
 2. Create a virtual environment using Anaconda  
     `conda create -n bams python=3.7`  
     `conda activate bams`  
     `pip install -r requirements.txt`
+   
    > [!NOTE]
    > If you are using MacOS, please also implement `pip3 install pyobjc==9.0.1`
+
 3. Import database  
-   _// login the mysql command_  
+   login the mysql command_  
     `mysql -u root –p`  
-   _// create database_  
+   create database_  
     `mysql> CREATE DATABASE accountmanagement;`  
     `mysql> USE accountmanagement;`  
-   _// import from sql file_  
+   import from sql file_  
     `mysql> source tables.sql`
+
 4. Login Interface  
    `python login.py`
 
 ## Demo
 
-For more information, please check out the demo.
+For more information, please check out the demo: https://drive.google.com/file/d/1BBrE1fsoePYOvf5u_vC1J4eTVHuETDYb/view?usp=drive_link
